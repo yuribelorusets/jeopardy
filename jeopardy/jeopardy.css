@@ -1,0 +1,50 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+body {
+  background-color: #115ff4;
+  color: white;
+}
+
+table {
+  margin-top: 100px;
+}
+
+.fa-question-circle {
+  width: 150px;
+  font-size: 150px;
+}
+
+.fa-spinner {
+  width: 100px;
+  font-size: 100px;
+  margin-top: 50px;
+}
+
+th {
+  width: 200px;
+  height: 100px;
+  border: 1px solid white;
+
+}
+
+td {
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+}
+
+#start {
+  background-color: #8d2ab5;
+  padding: 1em 3em;
+  border: none;
+  border-radius: 0.5em;
+  color: white;
+  font-size: 1em;
+  margin-top: 100px;
+}
